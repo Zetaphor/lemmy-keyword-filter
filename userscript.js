@@ -11,7 +11,7 @@
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @run-at       document-end
-// @match   		 *://*/*
+// @match        *://*/*
 // ==/UserScript==
 
 (function () {
