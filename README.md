@@ -1,6 +1,8 @@
 # Lemmy Post Keyword Filter Userscript
 
-This userscript allows you to filter out posts on Lemmy that match certain keywords. The script adds a settings page to your Tampermonkey menu, where you can specify the keywords to filter. If a post's title contains any of the specified keywords, the post and the <hr> tag that precedes it will be hidden.
+This userscript allows you to filter out posts on Lemmy that match certain keywords. The script adds a settings page to your Tampermonkey menu, where you can specify the keywords to filter. 
+
+If a post's title contains any of the specified keywords, the post will be hidden.
 
 ### Installation
 
