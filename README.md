@@ -8,7 +8,7 @@ This userscript allows you to filter out posts on Lemmy that match certain keywo
 
 2. Click on the Tampermonkey icon in your browser's toolbar and select "Create a new script..."
 
-3. Delete the template code that appears, and replace it with the code from script.js in this repository.
+3. Delete the template code that appears, and replace it with the code from userscript.js in this repository.
 
 4. Save the script: File -> Save, or press Ctrl+S.
 
