@@ -6,6 +6,12 @@ If a post's title contains any of the specified keywords, the post will be hidde
 
 ### Installation
 
+### Simple Installation
+
+[Click here to view the script](https://greasyfork.org/en/scripts/471718-lemmy-post-keyword-filter) on Greasyfork.org and install with your userscript extension of choice.
+
+### Manual Installation
+
 1. Install Tampermonkey for your browser of choice.
 
 2. Click on the Tampermonkey icon in your browser's toolbar and select "Create a new script..."
